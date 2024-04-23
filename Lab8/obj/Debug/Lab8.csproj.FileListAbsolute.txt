@@ -1,0 +1,10 @@
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab8\Lab8\bin\Debug\Lab8.exe.config
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab8\Lab8\bin\Debug\Lab8.exe
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab8\Lab8\bin\Debug\Lab8.pdb
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab8\Lab8\obj\Debug\Lab8.csproj.AssemblyReference.cache
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab8\Lab8\obj\Debug\Lab8.Form1.resources
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab8\Lab8\obj\Debug\Lab8.Properties.Resources.resources
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab8\Lab8\obj\Debug\Lab8.csproj.GenerateResource.cache
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab8\Lab8\obj\Debug\Lab8.csproj.CoreCompileInputs.cache
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab8\Lab8\obj\Debug\Lab8.exe
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab8\Lab8\obj\Debug\Lab8.pdb
